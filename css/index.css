@@ -1,0 +1,90 @@
+header{
+   /*  background: #222 !important; */
+}
+@media (min-width: 768px){
+   /*  header .intro-text {
+        padding-top: 100px;
+        padding-bottom: 20px;
+    } */
+}
+@media(min-width:768px) {
+
+
+    header .intro-text .intro-lead-in {
+    
+       /*  font-size: 20px; */
+    
+    }
+
+    header .intro-text .intro-heading {
+    
+      /*   font-size: 25px; */
+    
+    }
+}
+@media (min-width: 768px){
+    .navbar-default {
+  
+        background-color: #222;
+    }
+}
+footer {
+    background: #222;
+    color: #fff;
+}
+fieldset {
+    padding: .35em .625em .75em;
+    margin: 0 2px;
+    border: 1px solid silver;
+    cursor: pointer;
+}
+.boxinfo{
+    display: none ;
+}
+legend {
+    padding: .5em;
+    border: 0;
+    width: auto;
+    margin-bottom: 0px;
+}
+#services .company{
+    display: inline-block;
+}
+.fieldset {
+
+}
+.fieldset .content{
+
+}
+.fieldset .content .top{
+
+}
+.fieldset .content .top .left{
+    float: left;
+    width: 30%;
+   
+
+}
+.fieldset .content .top .left img{
+    width: 100px;
+    height: 100px;
+ 
+
+}
+.fieldset .content .top .right {
+    float: left;
+    width: 66%;
+    margin-left: 2%;
+    text-align: left;
+
+}
+.fieldset .content .top .right {
+    float: left;
+    width: 66%;
+    margin-left: 2%
+
+}
+.fieldset .content .bottom{
+    margin-top: 20px;
+
+}
