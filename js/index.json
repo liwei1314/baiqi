@@ -1,110 +1,448 @@
 {
     "zt": "chenggong",
     "baiqi": [
-        [
-            {
-                "hangye": "【双1",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-                "company": "秦始皇互联网科技有限公司",
-                "Referred": "秦始皇",
-                "mission": "客户至上，客户为尊，契约精神，大胆尝试，大胆创新，大胆超越，大胆改变，大胆挑战。",
-                "slogan": "推动个人，社会，世界人类文明和自然进步的发展。",
-                "objective": "1，诚信2，质量是先决条件3，团结是攻克目标核心力量，更有利于自身利益。4，发现人和事物优缺点，善于运用。5，从改变中提供更好的服务。6，勤能节俭7，赏罚分明。",
-    
+        {
+            "hangye": "共享办公",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "mission": "客户至上，客户为尊，契约精神，大胆尝试，大胆创新，大胆超越，大胆改变，大胆挑战。",
+            "slogan": "推动个人，社会，世界人类文明和自然进步的发展。",
+            "objective": "1，诚信2，质量是先决条件3，团结是攻克目标核心力量，更有利于自身利益。4，发现人和事物优缺点，善于运用。5，从改变中提供更好的服务。6，勤能节俭7，赏罚分明。",
+            "href": "http://baidu.com",
+           
+            "product":[
+                {"title":"IT项目外包","imgsrc":"img/portfolio/roundicons.png","English":"IT project outsourcing.","Longtopic":"IT项目承接的类型发展","proEng":"IT projects to undertake the type of development","proIMG":"img/portfolio/roundicons-free.png","info":"为保证项目风险将项目外包，风险由外包公司承担，有一定的风险，当然我们保存着实力，高手。有3位左右前端6年以上开发经验，一天内写插件几千行js代码，没有bug，优化代码结构，优化性能，保证浏览器、app、小程序等运行流畅，python，java,NET,PHP,C++都有超过五年的开发经验，开发经验，按期或者提前完成任务。!","yewu":"想要app，小程序，公众号，网站定制吗?","Theurl":"https://qshqshqsh.com/","paper1":"2019年4月","paper2":"互联网变革","paper3":"从今天开始"},
+                {"title":"学习网+农村电商","imgsrc":"img/portfolio/roundicons.png","English":"Learning network + rural e-commerce","Longtopic":"IT项目承接的类型发展","proEng":"IT projects to undertake the type of development","proIMG":"img/portfolio/roundicons-free.png","info":"为保证项目风险将项目外包，风险由外包公司承担，有一定的风险，当然我们保存着实力，高手。有3位左右前端6年以上开发经验，一天内写插件几千行js代码，没有bug，优化代码结构，优化性能，保证浏览器、app、小程序等运行流畅，python，java,NET,PHP,C++都有超过五年的开发经验，开发经验，按期或者提前完成任务。!","yewu":"想要app，小程序，公众号，网站定制吗?","Theurl":"https://qshqshqsh.com/","paper1":"2019年4月","paper2":"互联网变革","paper3":"从今天开始"},
+                {"title":"IT项目外包","imgsrc":"img/portfolio/roundicons.png","English":"dasdsa"}
+              
                
-                "href": "http://baidu.com"
-
-            },
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-                "company": "秦始皇互联网科技有限公司",
-                "Referred": "秦始皇da",
-                "href": "http://baidu.com"
-
-            },
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-                "company": "秦始皇互联网科技有限公司",
-                "Referred": "秦始皇",
-                "href": "http://baidu.com"
-
-            }
-        ],
-        [
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-                "Referred": "秦始皇",
-                "href": "http://baidu.com"
-
-            },
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-               
-                "href": "http://baidu.com"
-
-            },
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-               
-                "href": "http://baidu.com"
-
-            }
-        ],
-        [
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-               
-                "href": "http://baidu.com"
-
-            },
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-               
-                "href": "http://baidu.com"
-
-            },
-            {
-                "hangye": "【双11】电影折扣卷已",
-                "src": "img/company/1/1.jpg",
-                "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
-                "phone": "16620788864",
-                "address": "深圳市龙华区港深国际中心601",
-               
-                "href": "http://baidu.com"
-
-            }
-        ]
+         
+            ]
+        },
+        {
+            "hangye": "2",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇da",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "3",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "4",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "5",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "6",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "7",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "8",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "9",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "10",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "11",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "12",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "13",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "14",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "15",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "16",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "17",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "18",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "19",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "20",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "21",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "22",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "23",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "24",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "25",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "26",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "27",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "28",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "29",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "30",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "31",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "32",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "33",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "34",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "35",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "36",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "37",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "38",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "39",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "40",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "41",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "42",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        },
+        {
+            "hangye": "43",
+            "src": "img/company/1/1.jpg",
+            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "phone": "16620788864",
+            "address": "深圳市龙华区港深国际中心601",
+            "company": "秦始皇互联网科技有限公司",
+            "Referred": "秦始皇",
+            "href": "http://baidu.com"
+        }
     ],
     "qianggou": [
         {
