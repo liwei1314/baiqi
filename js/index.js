@@ -203,7 +203,7 @@ function details(datas) {
                                     <img class="img-responsive" src="${productS[index].proIMG}" alt="">
                                     <p>${productS[index].info}</p>
                                     <p>
-                                        <strong>${productS[index].yewu}</strong>您可以访问这个网址 ${productS[index].Theurl}<a href="${productS[index].Theurl}"
+                                        <strong>${productS[index].yewu}</strong>您可以访问这个网址 <a href="${productS[index].Theurl}"
                                             target="_blank">${productS[index].Theurl}</a>, 或者您可以拨打这个电话 <a
                                             href="tel:${datas.phone}">${datas.phone}</a>.</p>
                                     <ul class="list-inline">
@@ -298,15 +298,11 @@ function details(datas) {
     
     var txtcontact = `
     <h3 class="text-muted">邮箱：<a href="mailto:${contactdata.Email}">${contactdata.Email}</a></h3>
-    <h3 class="text-muted">给：<a href="sms:${datas.phone}">${datas.phone}</a>发短信</h3>
-
+    <h3 class="text-muted">给：<a href="sms:${datas.phone}">${datas.phone}发短信</a></h3>
     <h3 class="section-subheading text-muted">电话：<a href="tel:${datas.phone}">${datas.phone}（轻触拨打，微信同步）</a>
     </h3>
     <h3 class="text-muted">地址：<a href="geopoint:116.281469,39.866035">${datas.address}</a></h3>
-    <h3 class="wx_gongzhong text-muted">微信公众号：<a>${contactdata.wxpublicname}</a><br /><br /><img src="${contactdata.wxpublicsrc}"
-            alt="${contactdata.wxpublicname}"></h3>
-    
-    
+    <h3 class="wx_gongzhong text-muted">微信公众号：<a>${contactdata.wxpublicname}</a><br /><br /><img src="${contactdata.wxpublicsrc}" alt="${contactdata.wxpublicname}"></h3>    
     `
     $('#contact .col-lg-12').append(txtcontact);
 
