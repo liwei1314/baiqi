@@ -136,12 +136,13 @@ restData()
 function details(datas) {
 
 
-    var htm = '';
-    var tex = '';
-    var txtabout = '';
+    var htm = '', tex = '', txtabout = '', txtteam = '', txtclient = '', txtcontact = '';
     var productS = datas.product;
     var aboutdata = datas.aboutdata;
-    var referred = $('.intro-lead-in span,.navbar-nav li:nth-child(4) a span,.navbar-nav li:nth-child(6) a span,.aboutinfo span')
+    var teamdata = datas.team;
+    var clientsdata = datas.clients;
+    var contactdata = datas.contact;
+    var referred = $('.intro-lead-in,.navbar-nav li:nth-child(4) a,.navbar-nav li:nth-child(6) a,.aboutinfo span,#contact .col-lg-12 .cont').find('span')
 
     var Aphone = '<a class="" href="tel:' + datas.phone + '">电话：<span>' + datas.phone + '</span></a>';
 
@@ -154,13 +155,17 @@ function details(datas) {
     $('.slogan').text(datas.slogan);
     $('.objective').text(datas.objective);
     $('.slogan').text(datas.slogan);
-    $('.aboutEng span').text(datas.ReferredENG);
+    $('.aboutEng span,.contENG span').text(datas.ReferredENG);
+    $('.business .large').text(datas.business);
 
+
+
+    //About 
     for (let inde = 0; inde < productS.length; inde++) {
         console.log(13, productS.length)
         htm += `
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal${inde+1}" class="portfolio-link" data-toggle="modal">
+                <a href="#portfolioModal${inde + 1}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fa fa-plus fa-3x"></i>
@@ -180,7 +185,7 @@ function details(datas) {
     for (let index = 0; index < productS.length; index++) {
 
         tex += `
-            <div class="portfolio-modal modal fade" id="portfolioModal${index+1}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="portfolio-modal modal fade" id="portfolioModal${index + 1}" tabindex="-1" role="dialog" aria-hidden="true">
                 <div class="modal-content">
                     <div class="close-modal" data-dismiss="modal">
                         <div class="lr">
@@ -217,12 +222,14 @@ function details(datas) {
         `
     }
     $('.footer').after(tex);
+
+    var timeline = $('#about .container .row:nth-child(2) .col-lg-12 .timeline');
     for (let index = 0; index < aboutdata.length; index++) {
 
         txtabout += `
-        <li class="timeline-inverted>
+        <li class="timeline-inverted">
             <div class="timeline-image">
-                <img class="img-circle img-responsive" src="img/about/${datas.aboutdeveIMG}/${index+1}.jpg" alt="">
+                <img class="img-circle img-responsive" src="${aboutdata[index].img}" alt="">
             </div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -235,6 +242,76 @@ function details(datas) {
             </div>
         </li>
         `
+
+
     }
-    $('#about .container .row:nth-child(2) .col-lg-12 .timeline').after(txtabout);
+    txtabout += `
+        <li class="timeline-inverted">
+            <div class="timeline-image">
+                <h4>成为
+                    <br>我们
+                    <br>故事的一部分!</h4>
+            </div>
+        </li>
+        `
+
+    timeline.append(txtabout);
+    timeline.find('li:first-child').removeAttr('class');
+    //团队
+
+
+    var teams = $('#team .container .row:nth-child(2)');
+
+    for (let index = 0; index < teamdata.length; index++) {
+
+        txtteam += `
+        <div class="col-sm-4">
+            <div class="team-member">
+                <img src="${teamdata[index].teamIMG}" class="img-responsive img-circle" alt="">
+                <h4>${teamdata[index].name}</h4>
+                <p class="text-muted">${teamdata[index].info}</p>
+                
+            </div>
+        </div>
+        
+        `
+    }
+    teams.append(txtteam);
+
+    var clientss = $('.clients .container .row');
+
+    for (let index = 0; index < clientsdata.length; index++) {
+
+        txtclient += `
+        <div class="col-md-3 col-sm-6">
+            <a href="###">
+                <img src="${clientsdata[index]}" class="img-responsive img-centered" alt="">
+            </a>
+        </div>
+        `
+    }
+    clientss.append(txtclient);
+
+    var QQs = '<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=' + datas.contact.QQnumber + '&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:' + datas.contact.QQnumber + ':51" alt="' + datas.contact.chenghu + '" title="' + datas.contact.chenghu + '" />' + datas.contact.QQnumber + '</a>'
+
+    $('#contact .col-lg-12 .QQ').append(QQs);
+    
+    var txtcontact = `
+    <h3 class="text-muted">邮箱：<a href="mailto:${contactdata.Email}">${contactdata.Email}</a></h3>
+    <h3 class="text-muted">给：<a href="sms:${datas.phone}">${datas.phone}</a>发短信</h3>
+
+    <h3 class="section-subheading text-muted">电话：<a href="tel:${datas.phone}">${datas.phone}（轻触拨打，微信同步）</a>
+    </h3>
+    <h3 class="text-muted">地址：<a href="geopoint:116.281469,39.866035">${datas.address}</a></h3>
+    <h3 class="wx_gongzhong text-muted">微信公众号：<a>${contactdata.wxpublicname}</a><br /><br /><img src="${contactdata.wxpublicsrc}"
+            alt="${contactdata.wxpublicname}"></h3>
+    
+    
+    `
+    $('#contact .col-lg-12').append(txtcontact);
+
+
+
+
+
 }

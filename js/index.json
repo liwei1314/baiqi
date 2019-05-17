@@ -1,9 +1,10 @@
 {
     "zt": "chenggong",
-    "baiqi": [{
-            "hangye": "共享办公",
+    "baiqi": [
+        {
+            "hangye": "互联网科技",
             "src": "img/company/1/1.jpg",
-            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置900。不靠窗800。",
+            "yewu": "秦始皇百企、秦始皇龙虾、学习网、农村电商。",
             "phone": "16620788864",
             "address": "深圳市龙华区港深国际中心601",
             "company": "秦始皇互联网科技有限公司",
@@ -13,9 +14,11 @@
             "slogan": "推动个人，社会，世界人类文明和自然进步的发展。",
             "objective": "1，诚信2，质量是先决条件3，团结是攻克目标核心力量，更有利于自身利益。4，发现人和事物优缺点，善于运用。5，从改变中提供更好的服务。6，勤能节俭7，赏罚分明。",
             "href": "http://baidu.com",
-            "aboutdeveIMG": "qsh",
 
-            "product": [{
+            "business": "秦始皇（深圳）互联网科技有限公司{Qin ShiHuang (ShenZhen)Internet Technology CO.LTD}是一家专注于IT,互联网领域的综合性企业。目前，秦始皇（深圳）互联网科技主要为金融业、建材业、制造业、医疗、物流、军工等行业提供定企业商业信心对接咨询解决方案。秦始皇（深圳）互联网科技坚持“客户至上，客户为尊”与“在改善，改进，改变短时间内迅速做出决策，快速执行，高效完成完善产品”的企业理念，在高速发展的互联网时代为企业提供B2B、B2C解决方案。",
+            "clients": ["img/logos/qsh/envato.jpg","img/logos/qsh/designmodo.jpg","img/logos/qsh/themeforest.jpg","img/logos/qsh/creative-market.jpg"],
+            "product": [
+                {
                     "title": "IT项目外包",
                     "imgsrc": "img/portfolio/roundicons.png",
                     "English": "IT project outsourcing.",
@@ -57,30 +60,82 @@
                     "paper2": "互联网变革",
                     "paper3": "从今天开始"
                 }
-
-
-
             ],
-            "aboutdata": [{
+            "aboutdata": [
+                {
+                    "img": "img/about/qsh/1.jpg",
                     "date": "2014-2018",
                     "develope": "我们谦卑的开端",
                     "info": "在互联网行业呆久了，就会有自己人脉和行业资源，其二自身的压力也越来越高，有8k就想10k，有10k就想12k，往下减，心里会很不平衡，其三自身消费越来越高，当然我们在完成工作之余，接些私活是很正常不过的事情!"
-
                 },
                 {
+                    "img": "img/about/qsh/2.jpg",
                     "date": "2014-2018",
                     "develope": "我们谦卑的开端",
                     "info": "在互联网行业呆久了，就会有自己人脉和行业资源，其二自身的压力也越来越高，有8k就想10k，有10k就想12k，往下减，心里会很不平衡，其三自身消费越来越高，当然我们在完成工作之余，接些私活是很正常不过的事情!"
-
                 },
                 {
+                    "img": "img/about/qsh/3.jpg",
                     "date": "2014-2018",
                     "develope": "我们谦卑的开端",
                     "info": "在互联网行业呆久了，就会有自己人脉和行业资源，其二自身的压力也越来越高，有8k就想10k，有10k就想12k，往下减，心里会很不平衡，其三自身消费越来越高，当然我们在完成工作之余，接些私活是很正常不过的事情!"
-
                 }
-
-            ]
+            ],
+            "team": [
+                {
+                    "teamIMG": "img/team/qsh/1.jpg",
+                    "name": "MALI",
+                    "info": "前端开发工程师"
+                },
+                {
+                    "teamIMG": "img/team/qsh/2.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/3.jpg",
+                    "name": "HAIWEIER",
+                    "info": "UI设计师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/4.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/5.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/6.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/7.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/8.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                },
+                {
+                    "teamIMG": "img/team/qsh/9.jpg",
+                    "name": "JACK",
+                    "info": "前端开发工程师!"
+                }
+            ],
+            "contact": {
+                "QQnumber":"488581539",
+                "QQchenghu":"欢迎来到秦始皇互联网科技，请问尊敬您有什么需要",
+                "Email":"488581539@qq.com",
+                "wxpublicname":"秦始皇互联网科技",
+                "wxpublicsrc":"img/wxpublic/qsh.jpg"
+            }
+    
         },
         {
             "hangye": "2",
@@ -89,7 +144,7 @@
             "phone": "16620788864",
             "address": "深圳市龙华区港深国际中心601",
             "company": "秦始皇互联网科技有限公司",
-            "Referred": "秦始皇da",
+            "Referred": "秦始皇",
             "href": "http://baidu.com"
         },
         {
@@ -503,7 +558,8 @@
             "href": "http://baidu.com"
         }
     ],
-    "qianggou": [{
+    "qianggou": [
+        {
             "src": "src='img/0031551_110x180.jpg'",
             "mingcheng": "优雅干红葡萄酒",
             "miaoshu": "Gala Royal",
@@ -654,7 +710,8 @@
             "jiage": "74.0"
         }
     ],
-    "cainixihuan": [{
+    "cainixihuan": [
+        {
             "src": "src='img/0796315_110x180.jpg'",
             "mingcheng": "奥比隆干红葡萄",
             "miaoshu": "Gala Royal",
