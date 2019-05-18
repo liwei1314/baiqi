@@ -97,7 +97,7 @@ function renderDom(data) {
                                         业务信息："${data[index].yewu}"
                                     </span>
                                     <br />
-                                    <strong>电话：<a href="tel:${data[index].phone}">${data[index].phone}</a> 手机端轻触拨打</strong>
+                                    <strong>电话：<a href="tel:${data[index].phone}">${data[index].phone}</a> </strong>
                                 </div>
                             </div>
                             <div class="bottom">
@@ -121,8 +121,14 @@ function renderDom(data) {
 
         $('.contentinfo').hide();
         $('.boxinfo').show();
+        
         $('.footer').css('background', '#fff');
         $('.footer span').css('color', '#222');
+
+        if($(window).width()<768){
+            console.log(21,$(window).width())
+            $('.navbar-default .navbar-toggle').show();
+        }
         e.preventDefault();
 
         details(data[inx]);
