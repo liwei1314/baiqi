@@ -148,7 +148,7 @@ function details(datas) {
     var teamdata = datas.team;
     var clientsdata = datas.clients;
     var contactdata = datas.contact;
-    var referred = $('.intro-lead-in,.navbar-nav li:nth-child(4) a,.navbar-nav li:nth-child(6) a,.aboutinfo span,#contact .col-lg-12 .cont').find('span')
+    var referred = $('.intro-lead-in,.navbar-nav li:nth-child(4) a,.navbar-nav li:nth-child(6) a,.aboutinfo,#contact .col-lg-12 .cont,.teams').find('span')
 
     var Aphone = '<a class="" href="tel:' + datas.phone + '">电话：<span>' + datas.phone + '</span></a>';
 
@@ -161,7 +161,7 @@ function details(datas) {
     $('.slogan').text(datas.slogan);
     $('.objective').text(datas.objective);
     $('.slogan').text(datas.slogan);
-    $('.aboutEng span,.contENG span').text(datas.ReferredENG);
+    $('.aboutEng span,.contENG span,.teamENG span').text(datas.ReferredENG);
     $('.business .large').text(datas.business);
 
 
