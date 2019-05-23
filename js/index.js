@@ -102,7 +102,7 @@ function renderDom(data) {
                             </div>
                             <div class="bottom">
                                 <p>地址：${data[index].address}</p>
-                                <p>公司：${data[index].company}</p>
+                               
                             </div>
                         </div>
                     </fieldset>
@@ -111,6 +111,8 @@ function renderDom(data) {
             }
         }
         txt += `</div>`
+
+        /*  <p>公司：${data[index].company}</p> */
     }
     $('#servicesinfo .container').append(txt);
     $('#servicesinfo .container .row .col-md-4').click(function (e) {
@@ -163,12 +165,14 @@ function details(datas) {
     $('.slogan').text(datas.slogan);
     $('.aboutEng span,.contENG span,.teamENG span').text(datas.ReferredENG);
     $('.business .large').text(datas.business);
-
-
+    $('.missions').text(datas.introduce[0])
+    $('.slogans').text(datas.introduce[1])
+    $('.objectives').text(datas.introduce[2])
+  /*   console.log(13, sad) */
 
     //About 
     for (let inde = 0; inde < productS.length; inde++) {
-        console.log(13, productS.length)
+        /* console.log(13, productS.length) */
         htm += `
             <div class="col-md-4 col-sm-6 portfolio-item">
                 <a href="#portfolioModal${inde + 1}" class="portfolio-link" data-toggle="modal">
