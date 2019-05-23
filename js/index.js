@@ -302,19 +302,21 @@ function details(datas) {
     }
     clientss.append(txtclient);
 
-    var QQs = '<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=' + datas.contact.QQnumber + '&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:' + datas.contact.QQnumber + ':51" alt="' + datas.contact.chenghu + '" title="' + datas.contact.chenghu + '" />' + datas.contact.QQnumber + '</a>'
+    var QQs = '<h3 class="text-muted QQ">QQ客服：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=' + datas.contact.QQnumber + '&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:' + datas.contact.QQnumber + ':51" alt="' + datas.contact.chenghu + '" title="' + datas.contact.chenghu + '" />' + datas.contact.QQnumber + '</a></h3>'
 
-    $('#contact .col-lg-12 .QQ').append(QQs);
+
     
     var txtcontact = `
-    <h3 class="text-muted">邮箱：<a href="mailto:${contactdata.Email}">${contactdata.Email}</a></h3>
+    <h3 class="section-subheading text-muted">电话：<a href="tel:${datas.phone}">${datas.phone}（轻触拨打，微信同步）</a> </h3>
     <h3 class="text-muted">给：<a href="sms:${datas.phone}">${datas.phone}发短信</a></h3>
-    <h3 class="section-subheading text-muted">电话：<a href="tel:${datas.phone}">${datas.phone}（轻触拨打，微信同步）</a>
-    </h3>
+    <h3 class="text-muted emails">邮箱：<a href="mailto:${contactdata.Email}">${contactdata.Email}</a></h3>
+
     <h3 class="text-muted">地址：<a href="geopoint:116.281469,39.866035">${datas.address}</a></h3>
-    <h3 class="wx_gongzhong text-muted">微信公众号：<a>${contactdata.wxpublicname}</a><br /><br /><img src="${contactdata.wxpublicsrc}" alt="${contactdata.wxpublicname}"></h3>    
+    <h3 class="wx_gongzhong text-muted">微信公众号：<a>欢迎来到${contactdata.wxpublicname}，请问尊敬您有什么需要</a><br /><br /><img src="${contactdata.wxpublicsrc}" alt="欢迎来到${contactdata.wxpublicname}，请问尊敬您有什么需要"></h3>    
     `
     $('#contact .col-lg-12').append(txtcontact);
+    console.log(31,$('#contact .col-lg-12 .emails'))
+    $('#contact .col-lg-12 .emails').after(QQs);
 
 
 
