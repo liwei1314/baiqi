@@ -66,10 +66,7 @@ legend {
 
 }
 .fieldset .content .top .left img{
-    width: 100px;
-    height: 100px;
- 
-
+    width: 100%;
 }
 .fieldset .content .top .right {
     float: left;

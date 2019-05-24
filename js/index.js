@@ -1,3 +1,8 @@
+
+
+/* $('.fieldset .content .top .left img').height($(window).width()*0.3);
+ */
+
 // 获取数据接口
 function getMockData({
     currentPage,
@@ -140,6 +145,9 @@ function renderDom(data) {
     });
 }
 restData()
+
+
+
 /* 公司详情 */
 function details(datas) {
 
