@@ -310,7 +310,7 @@ function details(datas) {
     }
     clientss.append(txtclient);
 
-    var QQs = '<h3 class="text-muted QQ">QQ客服：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=' + datas.contact.QQnumber + '&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:' + datas.contact.QQnumber + ':51" alt="' + datas.contact.chenghu + '" title="' + datas.contact.chenghu + '" />' + datas.contact.QQnumber + '</a></h3>'
+    var QQs = '<h3 class="text-muted QQ">QQ客服：<a target="_blank" href="tencent://message/?&uin=' + datas.contact.QQnumber + '&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:' + datas.contact.QQnumber + ':51" alt="' + datas.contact.chenghu + '" title="' + datas.contact.chenghu + '" />' + datas.contact.QQnumber + '</a></h3>'
 
 
     
