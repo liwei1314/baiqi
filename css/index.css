@@ -51,7 +51,7 @@ legend {
     display: inline-block;
 }
 .fieldset {
-
+    height: 35vh;
 }
 .fieldset .content{
 

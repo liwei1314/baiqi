@@ -114,106 +114,106 @@
     
         },
         {
-            "hangye": "共享办公",
-            "src": "img/company/1/1.jpg",
-            "yewu": "独立办公间入驻九折优惠。公共空间固定卡位靠窗位置780元，不靠窗780元，移动卡位780元",
-            "phone": "16620788864",
-            "address": "深圳市龙华区港深国际中心601",
+            "hangye": "惠州惠阳厂房出租",
+            "src": "companyimgs/HZCF/team/4.jpg",
+            "yewu": "惠州惠阳地区厂房出租12 元/月或16 元/㎡/天",
+            "phone": "18688733248",
+            "address": "根据需求厂房区域而定",
             "company": "NiuWork共享办公",
-            "Referred": "办公",
+            "Referred": "惠州厂房",
             "ReferredENG": "office.",
-            "mission": "可容纳2至25人的会议空间，每个空间配备了A / V( 音频 / 视频）设备。若您需要路演、沙龙、讲座或者分享会需要，我们准备了拼接屏设备，在各种令人愉悦的细节中升级你的工作体验。",
-            "slogan": "不止设计了多个会议室，让你的头脑风暴有抒发的空间。更有人性化的隔音电话亭和观景台，他人的电话声无法影响你的专注。若感到烦心时，在观景台听风看雨皆可宜",
-            "objective": "为你量身定制每一个工作空间，容纳人数2~21人的办公室、开放与独立办公空间，皆配备齐全，何种风格，任君挑选",
+            "mission": "惠阳区原房东新空出独院钢构厂房出租！大小可分租！",
+            "slogan": "惠州市惠阳区原房东新空出独院钢构厂房出租，带有现成家具环评，现成喷漆房，现成水电装修进厂即可生产。厂房三栋14000平方，宿舍2500平方，办公楼1200平方，独立变压器315千瓦，院区空地大货柜车可掉头，大门外就三十六米大道，离深圳四公里，院区配独立饭堂，独立小卖店。员工生活方便，厂门口直达淡水公交车!交通方便！易招工！人气旺！详情了解，请来点咨询！ ",
+            "objective": "惠州镇隆高速出口原房东独院标准厂房30000平出租",
 
-            "business": "作为为创业者服务的团队，NIUWORK团队的使命是：用心，让工作更轻松。NIUWORK团队成员皆为20~30岁年轻人，我们用服务，力求能为创业者提供“速度”与“激情”。我们也深谙一个道理：“路漫漫其修远兮，吾将上下而求索”，道阻且长，未来日子里希望与初创企业共同成长。",
-            "introduce": ["会议设施","热闹而不喧闹","量身定制的办工空间"],
-            "clients": ["companyimgs/niuwork/logos/envato.jpg","companyimgs/niuwork/logos/designmodo.jpg","companyimgs/niuwork/logos/themeforest.jpg","companyimgs/niuwork/logos/creative-market.jpg"],
+            "business": "新圩高速口独院单层钢构2300平方，宿舍加办公800平方，原房东实际面积，靠山可做家私，工艺品等小污染行业。",
+            "introduce": ["厂房信息","环境","价格"],
+            "clients": ["companyimgs/HZCF/logos/envato.jpg","companyimgs/HZCF/logos/designmodo.jpg","companyimgs/HZCF/logos/themeforest.jpg","companyimgs/HZCF/logos/creative-market.jpg"],
             "product": [
                 {
-                    "title": "办公信息",
-                    "imgsrc": "companyimgs/niuwork/portfolio/roundicons.jpg",
+                    "title": "惠州惠阳厂房出租",
+                    "imgsrc": "companyimgs/HZCF/portfolio/roundicons.jpg",
                     "English": "Office information",
-                    "Longtopic": "办公信息",
+                    "Longtopic": "惠州惠阳厂房出租",
                     "proEng": "Office information",
-                    "proIMG": "companyimgs/niuwork/portfolio/roundicons-free.jpg",
-                    "info": "一谈到深圳本土的联合办公空间，许多创业者第一个想到的就是南山的孵化器、福田的创客中心……",
-                    "yewu": "殊不知在关外的龙华有一家联合办公空间——NiuWork正悄咪咪地展开工作。",
+                    "proIMG": "companyimgs/HZCF/portfolio/roundicons-free.jpg",
+                    "info": "厂房位于高速出口1公里，厂房1-5层共30000平，单层面积6000平，可整租，分层租，大小随意分",
+                    "yewu": "厂房外观形象高端大气上档次，地段位置好，交通便利",
                     "Theurl": "",
-                    "paper1": "2019年4月",
-                    "paper2": "龙华创业者不哭，这次终于到你们了！",
+                    "paper1": "厂房周边工业区集中，人流量多，周边配套齐全，员工生活便利，好招工",
+                    "paper2": "厂房水电齐全，现成消防喷淋，*齐全（可办环评）",
                     "paper3": "从今天开始"
                 },
                 {
-                    "title": "移动办公",
-                    "imgsrc": "companyimgs/niuwork/portfolio/startup-framework.jpg",
+                    "title": "惠州惠阳厂房出租",
+                    "imgsrc": "companyimgs/HZCF/portfolio/startup-framework.jpg",
                     "English": "Mobile office",
-                    "Longtopic": "移动办公",
+                    "Longtopic": "惠州惠阳厂房出租",
                     "proEng": "Mobile office",
-                    "proIMG": "companyimgs/niuwork/portfolio/startup-framework-preview.jpg",
-                    "info": "移动办公正在降低固定办公空间的必要性，同时移动技术也改变了办公空间的提供方式，因此使得一些别具风格的联合办公空间出现了巨大的市场需求。权威机构预测，未来几年内联合办公的市场需求将会在现有规模上再扩大一倍",
-                    "yewu": "移动办公趋势",
+                    "proIMG": "companyimgs/HZCF/portfolio/startup-framework-preview.jpg",
+                    "info": "厂房配有一部三吨电梯，两部两吨电梯，厂房空地大",
+                    "yewu": "公司深圳，东莞，惠州，广州，都有一手资源，想了解更多厂房仓库出租/出售信息，欢迎*实地考察，我们免费竭诚为您服务",
                     "Theurl": "",
-                    "paper1": "2019年4月",
-                    "paper2": "here",
+                    "paper1": "新圩高速口独院单层钢构2300平方，宿舍加办公800平方，原房东实际面积，靠山可做家私，工艺品等小污染行业。",
+                    "paper2": "惠阳三和新出原房东独院厂房11000平出租可分租*齐全空地超大",
                     "paper3": "从今天开始"
                 },
                 {
-                    "title": "数字化时代",
-                    "imgsrc": "companyimgs/niuwork/portfolio/treehouse.jpg",
+                    "title": "惠州惠阳厂房出租",
+                    "imgsrc": "companyimgs/HZCF/portfolio/treehouse.jpg",
                     "English": "Digital age",
-                    "Longtopic": "数字化时代",
+                    "Longtopic": "惠州惠阳厂房出租",
                     "proEng": "Digital age.",
-                    "proIMG": "companyimgs/niuwork/portfolio/treehouse-preview.jpg",
-                    "info": "在中国数字化时代的进程中，一些颠覆传统商业模式的力量正在逐渐改变着企业架构与工作模式，与此同时，大众工作场所的格局也正在发生着巨大的改变。作为传统建筑设计单位（英格玛建筑设计），在当前的市场形势下，眼光自然也并不局限于一隅",
-                    "yewu": "而是实时的接触和了解最前沿的资讯和新型工作模式。",
+                    "proIMG": "companyimgs/HZCF/portfolio/treehouse-preview.jpg",
+                    "info": "一栋五层11000平方米*齐全的工业厂房出租，可分租，配五吨电梯，一楼层高5.1米，其它层4.5米，二、三楼载重800公斤/平方米，丙类消防（有喷淋及烟感），且尚有13000平方米的空地预出租，园区内有宿舍、餐厅及士多店等； ",
+                    "yewu": "厂房位于惠阳秋长白石周边交通便捷，周围环境优美，园区形象好，有卸货平台，视野开阔，光线充足，办公有装修，可拎包办工，适合贸易.办公，电商，电子，等等多种行业。。。 ",
                     "Theurl": "",
-                    "paper1": "2019年4月",
-                    "paper2": "工作模式变革",
+                    "paper1": "惠阳沙田高速路口新出独门独院超靓钢钩滴水10米厂房空地超大，*齐全，行业不限，可办环评",
+                    "paper2": "离深圳20公里，沈海高速直达",
                     "paper3": "从今天开始"
                 }
             ],
             "aboutdata": [
                 {
-                    "img": "companyimgs/niuwork/about/1.jpg",
+                    "img": "companyimgs/HZCF/about/1.jpg",
                     "date": "2018",
-                    "develope": "最短多久起租？租、押方式？",
-                    "info": "我们分三种租赁期限，移动工位最短一天起租；公共空间固定工位最短半年起租；独立空间最短半年起租。日租的押金是一个月租金，月租的押金都是两个月租金!"
+                    "develope": "厂房6800平米",
+                    "info": "宿舍1200平米，厂区还带新地磅!，电：315独立变压器，可分租高速路口旁，交通便利，有现成水电装修，无行业限制，家私等其它无排污水的行业都可，环评好办。 本人从事工业地产行业8年，珠三角地区资源丰富，欢迎*，洽谈合作项目。 "
                 },
                 {
-                    "img": "companyimgs/niuwork/about/2.jpg",
+                    "img": "companyimgs/HZCF/about/2.jpg",
                     "date": "2018年7月",
-                    "develope": "工位费包含了其他哪些服务",
-                    "info": "包括了工位租金、物业、水电、空调、办公家具等基本的设施费用，不仅如此，还包括了私密电话间、办公宽带、公共区域高速wifi、茶水间（微波炉、冰箱配套）、24小时安保监控、常规办公清洁、快递收发、来访接待、限时多媒体会议室、限量云打印、洽谈室、容纳100人左右路演厅、健身房、水牌位展示、咖吧、母婴室、淋浴房、休息室等服务!"
+                    "develope": "秋长新塘原房东出租",
+                    "info": "钢构厂房9000平方总面积，厂房面积7100平方，滴水7米，砖墙到顶。宿舍2000平方1-4层。空地面积1500平方，*齐全。配电315千瓦。可以做污染行业。 "
                 },
                 {
-                    "img": "companyimgs/niuwork/about/3.jpg",
+                    "img": "companyimgs/HZCF/about/3.jpg",
                     "date": "2019年4月",
-                    "develope": "是否能提供公司注册、地址挂靠？",
-                    "info": "独立办公空间能够提供公司注册、地址挂靠。公共区域我们可以提供专业的公司注册和地址挂靠的增值服务，为您解决类似公司注册、地址挂靠的工商问题"
+                    "develope": "秋长白石新出租",
+                    "info": "出标准钢构厂房出租1200平，厂房砖墙到顶，全天专人管理，带现成地坪漆，采光极好，滴水7米，带隔热层，空地2000平，可进拖头，大车可直接进车间，中间无柱，价格便宜，主干道附近，适合各种行业。"
                 },
                 {
-                    "img": "companyimgs/niuwork/about/4.jpg",
-                    "date": "2018年12月",
-                    "develope": "是否任意时间都能自由进出工作？门禁方式？",
-                    "info": "我们创客中心工作时间是不限时的，门禁的方式是刷卡和人脸识别。虽然是不限时的，但是我们会尽可能的保障会员安静、舒适和安全的工作环境，不会让外人随意进出"
+                    "img": "companyimgs/HZCF/about/4.jpg",
+                    "date": "2019年5月",
+                    "develope": "惠阳秋长白石",
+                    "info": "刚刚空出1150㎡单一层厂房，滴水8米。现成水电装修办公室，开价18块钱。不进水，可办理环评 "
                 }
             ],
             "team": [
                 {
-                    "teamIMG": "companyimgs/niuwork/team/1.jpg",
+                    "teamIMG": "companyimgs/HZCF/team/1.jpg",
                     "name": "MALI",
-                    "info": "销售顾问"
+                    "info": "惠阳秋长2楼1600平带装修工艺品厂房出租现成水电"
                 },
                 {
-                    "teamIMG": "companyimgs/niuwork/team/2.jpg",
+                    "teamIMG": "companyimgs/HZCF/team/2.jpg",
                     "name": "JACK",
-                    "info": "销售团!"
+                    "info": "厂房位于白石大型工业区，管理规范，二楼1600平方，带精装修办公室，前台会议室，车间地坪漆水电齐全，园区配套宿舍饭堂，带主体消防，带现成隔好办公室，出工业园就是公交站，200米居民区招工非常方便。 "
                 },
                 {
-                    "teamIMG": "companyimgs/niuwork/team/3.png",
+                    "teamIMG": "companyimgs/HZCF/team/3.jpg",
                     "name": "HAIWEIER",
-                    "info": "创始人"
+                    "info": "支持排污带证！惠阳沙田钢构厂房出租"
                 }
             ],
             "contact": {
